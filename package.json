@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ILESKOV/Gemini-trading-bot#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "gemini-api": "^2.0.4"
   }
 }
